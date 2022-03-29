@@ -1,12 +1,12 @@
 {
     "broadArea": {
-        "name": "",
-        "link": ""
+        "name": "Electrical Engineering",
+        "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
     },
-    "lab": "",
-    "lab_display_name": "",
-    "deployLab": ,
-    "phase": ,
+    "lab": "Industrial Automation Laboratory",
+    "lab_display_name": "Industrial Automation Laboratory",
+    "deployLab": true,
+    "phase": 2,
     "collegeName": "",
     "baseUrl": "",
     "introduction": "",
