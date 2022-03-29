@@ -7,9 +7,12 @@
     "lab_display_name": "Industrial Automation Laboratory",
     "deployLab": true,
     "phase": 2,
-    "collegeName": "",
-    "baseUrl": "",
-    "introduction": "",
+    "collegeName": "coep",
+    "baseUrl": "ial-coep.vlabs.ac.in",
+    "introduction": "Industrial Automation Lab i.e. DCS (Distributed Control System) lab is a high-level automation tool used to control complex process plants. The geographical and functional distribution makes this tool 'promising' for the implementation of advanced control strategies. Many industries are using this control system to fully automate their plants.</br></br>The complex controls demand a different kind of thought process to implement automation philosophies. This laboratory gives students insight into "function block diagram (FBD)" level programming.
+Most remote-triggered labs are using this technique extensively.
+
+",
     "experiments": [],
     "targetAudience": {
         "UG": [],
