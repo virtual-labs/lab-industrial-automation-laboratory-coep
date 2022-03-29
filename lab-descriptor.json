@@ -9,18 +9,72 @@
     "phase": 2,
     "collegeName": "coep",
     "baseUrl": "ial-coep.vlabs.ac.in",
-    "introduction": "Industrial Automation Lab i.e. DCS (Distributed Control System) lab is a high-level automation tool used to control complex process plants. The geographical and functional distribution makes this tool 'promising' for the implementation of advanced control strategies. Many industries are using this control system to fully automate their plants.</br></br>The complex controls demand a different kind of thought process to implement automation philosophies. This laboratory gives students insight into "function block diagram (FBD)" level programming.
-Most remote-triggered labs are using this technique extensively.
-
-",
-    "experiments": [],
-    "targetAudience": {
-        "UG": [],
-        "PG": []
+    "introduction": "Industrial Automation Lab i.e. DCS (Distributed Control System) lab is a high-level automation tool used to control complex process plants. The geographical and functional distribution makes this tool 'promising' for the implementation of advanced control strategies. Many industries are using this control system to fully automate their plants.</br>The complex controls demand a different kind of thought process to implement automation philosophies. This laboratory gives students insight into 'function block diagram (FBD)' level programming.</br></br>Most remote-triggered labs are using this technique extensively.",
+    "experiments": [
+    {
+      "name": "Study hardware and software platforms for DCS",
+      "short-name": "software-platforms-dcs",
+      "repo": "https://github.com/virtual-labs/exp-software-platforms-dcs-coep",
+      "tag": "v1.0.0",
+      "deploy": true
     },
-    "objective": "",
+    {
+      "name": "Simulate analog and digital function blocks",
+      "short-name": "digital-function-blocks",
+      "repo": "https://github.com/virtual-labs/exp-digital-function-blocks-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Study, understand and perform experiments on timers and counters",
+      "short-name": "experiments-timers-counters",
+      "repo": "https://github.com/virtual-labs/exp-experiments-timers-counters-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Logic implementation for traffic Control Application",
+      "short-name": "traffic-control-application",
+      "repo": "https://github.com/virtual-labs/exp-traffic-control-application-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Logic implementation for Bottle Filling Application",
+      "short-name": "bottle-filling-application",
+      "repo": "https://github.com/virtual-labs/exp-bottle-filling-application-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Tune PID controller for heat exchanger using DCS",
+      "short-name": "heat-exchanger-dcs",
+      "repo": "https://github.com/virtual-labs/exp-heat-exchanger-dcs-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Tune PID controller for heat exchanger using DCS",
+      "short-name": "heat-exchanger-dcs",
+      "repo": "https://github.com/virtual-labs/exp-heat-exchanger-dcs-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Develop graphical user interface for the fermenter plant",
+      "short-name": "fermenter-plant",
+      "repo": "https://github.com/virtual-labs/exp-fermenter-plant-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+    ],
+    "targetAudience": {
+        "UG": ["Undergraduate students of Instrumentation and Control Engineering, Mechatronics Engineering, Electrical Engineering, Mechanical Engineering branches."],
+        "PG": ["Post-graduate students of Process Instrumentation, Mechatronics, Production Engineering."]
+    },
+    "objective": "Identify the requirements of automation in a process plant</br></br>Develop various control schema using FBD(Function Block Diagram) programming.</br></br>Design complex FBD using advanced blocks</br></br>Troubleshoot the program implemented for a plant using FBD.",
     "courseAlignment": {
-        "description": "",
-        "universities": []
+        "description": "The syllabi of this lab aligns to the following universities in India",
+        "universities": ["Pune University","Indian Institute of Technology Bombay","Indian Institute of Technology Delhi","BMS College of Engineering, Bangalore","Institute has an Instrumentation and control department"]
     }
 }
