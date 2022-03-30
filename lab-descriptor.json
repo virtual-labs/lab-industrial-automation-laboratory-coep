@@ -54,9 +54,9 @@
       "deploy": true
     },
     {
-      "name": "Tune PID controller for heat exchanger using DCS",
-      "short-name": "heat-exchanger-dcs",
-      "repo": "https://github.com/virtual-labs/exp-heat-exchanger-dcs-coep",
+      "name": "FBD for autoclavable laboratory fermenter",
+      "short-name": "autoclavable-laboratory-fermenter",
+      "repo": "https://github.com/virtual-labs/exp-autoclavable-laboratory-fermenter-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
@@ -89,5 +89,5 @@
   },
   "exp_name": "Develop graphical user interface for the fermenter plant",
   "exp_short_name": "fermenter-plant",
-  "version": "v0.1.0"
+  "version": "v0.2.0"
 }
