@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Electrical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-electrical-engineering",
+    "code": "EE"
   },
   "lab": "Industrial Automation Laboratory",
   "lab_display_name": "Industrial Automation Laboratory",
@@ -86,8 +87,5 @@
       "BMS College of Engineering, Bangalore",
       "Institute has an Instrumentation and control department"
     ]
-  },
-  "exp_name": "Develop graphical user interface for the fermenter plant",
-  "exp_short_name": "fermenter-plant",
-  "version": "v0.2.0"
+  }
 }
